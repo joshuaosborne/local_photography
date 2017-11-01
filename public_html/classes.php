@@ -5,18 +5,7 @@
 <body><header>
 <img src="C:/Users/katie.cardoza/Desktop/localphotography/images/locphoto_logo.png" alt="Local Photography Logo" /></header>
 <h3>Other Pages</h3>
-<nav>
-    <ul>
-        <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/index.html">Home</a></li>
-       <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/classes.html">Classes</a></li>
-       <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/studiohours.html">Studio Hours</a></li>
-       <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/studiohistory.html">Studio History</a></li>
-       <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/internships.html">Internships</a></li>
-       <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/about.html">About</a></li>
-       <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/login.html">Log In</a></li>
-       <li><a href = "file:///C:/Users/katie.cardoza/Desktop/localphotography/public_html/signup.html">Sign Up</a></li>
-    </ul>
-</nav>
+<?php include '../Resources/navigation.php'; ?>
 <h1>Classes</h1>
 <p> We have a variety of group classes that will fit into your schedule. Below are classes offered by our top of the line photography school. Note that classes take place every day!  Additionally, we offer private lessons.  If you are interested in registering for a group class or a private lesson, please log in to your account. </p>
 <ul> 
